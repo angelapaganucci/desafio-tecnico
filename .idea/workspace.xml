@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a3a935-b89d-4231-9b53-e46473c7718b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2zZS8GUj7p27z2Ho4xKUqUOn8yu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.PedidoControllerTest.deveSimularPedido.executor": "Run",
+    "JUnit.PedidoServiceTest.deveSimularPedidoComSucesso.executor": "Run",
+    "JUnit.ProdutoControllerTest.deveAtualizarProduto.executor": "Run",
+    "JUnit.ProdutoControllerTest.deveBuscarProdutoPorId.executor": "Run",
+    "JUnit.ProdutoControllerTest.deveCriarProduto.executor": "Run",
+    "JUnit.ProdutoControllerTest.deveDeletarProduto.executor": "Run",
+    "JUnit.ProdutoControllerTest.deveListarProdutos.executor": "Run",
+    "JUnit.ProdutoControllerTest.executor": "Coverage",
+    "JUnit.ProdutoMapperTest.deveConverterProdutoParaProdutoResponse.executor": "Run",
+    "JUnit.ProdutoMapperTest.deveConverterProdutoRequestParaProduto.executor": "Run",
+    "JUnit.ProdutoServiceTest.deveAtualizarProduto.executor": "Run",
+    "JUnit.ProdutoServiceTest.deveBuscarProdutoPorId.executor": "Run",
+    "JUnit.ProdutoServiceTest.deveDeletarProduto.executor": "Run",
+    "JUnit.ProdutoServiceTest.deveListarTodosProdutos.executor": "Run",
+    "JUnit.ProdutoServiceTest.deveSalvarProduto.executor": "Coverage",
+    "JUnit.ProdutoServiceTest.executor": "Coverage",
+    "Maven.desafio-microservicos [clean,install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.api-gateway.executor": "Debug",
+    "Spring Boot.catalogo-produtos.executor": "Debug",
+    "Spring Boot.eureka-server.executor": "Debug",
+    "Spring Boot.gestao-pedidos.executor": "Debug",
+    "Spring Boot.simular-pedidos.executor": "Debug",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.dio.simularpedidos.service" />
+      <recent name="br.com.dio.simularpedidos.controller" />
+      <recent name="br.com.dio.catalogoprodutos.service" />
+      <recent name="br.com.dio.catalogoprodutos.mapper" />
+      <recent name="br.com.dio.catalogoprodutos.controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PedidoServiceTest">
+    <configuration name="PedidoControllerTest.deveSimularPedido" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simular-pedidos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.simularpedidos.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.dio.simularpedidos.controller" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.simularpedidos.controller.PedidoControllerTest" />
+      <option name="METHOD_NAME" value="deveSimularPedido" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simular-pedidos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.simularpedidos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.dio.simularpedidos.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.simularpedidos.service.PedidoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PedidoServiceTest.deveSimularPedidoComSucesso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="simular-pedidos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.simularpedidos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.dio.simularpedidos.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.simularpedidos.service.PedidoServiceTest" />
+      <option name="METHOD_NAME" value="deveSimularPedidoComSucesso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="catalogo-produtos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.catalogoprodutos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.dio.catalogoprodutos.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.catalogoprodutos.service.ProdutoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoServiceTest.deveDeletarProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="catalogo-produtos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.dio.catalogoprodutos.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.dio.catalogoprodutos.service" />
+      <option name="MAIN_CLASS_NAME" value="br.com.dio.catalogoprodutos.service.ProdutoServiceTest" />
+      <option name="METHOD_NAME" value="deveDeletarProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api-gateway" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.dio.api.gateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="catalogo-produtos" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="catalogo-produtos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.dio.catalogoprodutos.CatalogoProdutosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.dio.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simular-pedidos" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="simular-pedidos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.dio.simularpedidos.SimularPedidosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PedidoServiceTest" />
+        <item itemvalue="JUnit.PedidoServiceTest.deveSimularPedidoComSucesso" />
+        <item itemvalue="JUnit.PedidoControllerTest.deveSimularPedido" />
+        <item itemvalue="JUnit.ProdutoServiceTest" />
+        <item itemvalue="JUnit.ProdutoServiceTest.deveDeletarProduto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a3a935-b89d-4231-9b53-e46473c7718b" name="Changes" comment="" />
+      <created>1751936942854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751936942854</updated>
+      <workItem from="1751936944797" duration="1460000" />
+      <workItem from="1751939087102" duration="25053000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/catalogo-produtos/src/main/java/br/com/dio/catalogoprodutos/controller/ProdutoController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/catalogo-produtos/src/main/java/br/com/dio/catalogoprodutos/service/ProdutoService.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/catalogo-produtos/src/main/java/br/com/dio/catalogoprodutos/mapper/ProdutoMapper.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/simular-pedidos/src/main/java/br/com/dio/simularpedidos/service/PedidoService.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/desafio_tecnico$ProdutoControllerTest.ic" NAME="ProdutoControllerTest Coverage Results" MODIFIED="1752033898357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>br.com.dio.catalogoprodutos.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/desafio_tecnico$ProdutoServiceTest.ic" NAME="ProdutoServiceTest Coverage Results" MODIFIED="1752034815272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>br.com.dio.catalogoprodutos.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/desafio_tecnico$ProdutoServiceTest_deveSalvarProduto.ic" NAME="ProdutoServiceTest.deveSalvarProduto Coverage Results" MODIFIED="1752034414901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>br.com.dio.catalogoprodutos.service.*</FILTER>
+    </SUITE>
+  </component>
+</project>
